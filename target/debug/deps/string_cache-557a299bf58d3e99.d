@@ -1,0 +1,11 @@
+C:\Users\user\projects\propertyagentscrapper\target\debug\deps\string_cache-557a299bf58d3e99.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\atom.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\dynamic_set.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\static_sets.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\trivial_impls.rs
+
+C:\Users\user\projects\propertyagentscrapper\target\debug\deps\libstring_cache-557a299bf58d3e99.rlib: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\atom.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\dynamic_set.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\static_sets.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\trivial_impls.rs
+
+C:\Users\user\projects\propertyagentscrapper\target\debug\deps\string_cache-557a299bf58d3e99.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\atom.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\dynamic_set.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\static_sets.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\trivial_impls.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\atom.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\dynamic_set.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\static_sets.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\string_cache-0.8.4\src\trivial_impls.rs:

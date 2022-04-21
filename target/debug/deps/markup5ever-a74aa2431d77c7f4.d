@@ -1,0 +1,15 @@
+c:\Users\user\projects\propertyagentscrapper\target\debug\deps\markup5ever-a74aa2431d77c7f4.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\data\mod.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\mod.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\tree_builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\serialize.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\buffer_queue.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\smallcharset.rs c:\Users\user\projects\propertyagentscrapper\target\debug\build\markup5ever-fc4744d101538482\out/generated.rs c:\Users\user\projects\propertyagentscrapper\target\debug\build\markup5ever-fc4744d101538482\out/named_entities.rs
+
+c:\Users\user\projects\propertyagentscrapper\target\debug\deps\markup5ever-a74aa2431d77c7f4.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\data\mod.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\mod.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\tree_builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\serialize.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\buffer_queue.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\smallcharset.rs c:\Users\user\projects\propertyagentscrapper\target\debug\build\markup5ever-fc4744d101538482\out/generated.rs c:\Users\user\projects\propertyagentscrapper\target\debug\build\markup5ever-fc4744d101538482\out/named_entities.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\data\mod.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\mod.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\tree_builder.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\serialize.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\buffer_queue.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\smallcharset.rs:
+c:\Users\user\projects\propertyagentscrapper\target\debug\build\markup5ever-fc4744d101538482\out/generated.rs:
+c:\Users\user\projects\propertyagentscrapper\target\debug\build\markup5ever-fc4744d101538482\out/named_entities.rs:
+
+# env-dep:OUT_DIR=c:\\Users\\user\\projects\\propertyagentscrapper\\target\\debug\\build\\markup5ever-fc4744d101538482\\out
